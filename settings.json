@@ -1,4 +1,14 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
-    "window.zoomLevel": 2
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++-9 -std=gnu++1y -O2 $fileName -o code && ./code",
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "off",
+    "editor.fontSize": 14
 }
