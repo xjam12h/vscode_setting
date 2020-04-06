@@ -10,5 +10,15 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "files.autoSave": "off",
-    "editor.fontSize": 14
+    "editor.fontSize": 14,
+    "window.zoomLevel": 0,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "yaml.schemas": {
+        "file:///Users/uedahiroki/.vscode/extensions/docsmsft.docs-yaml-0.2.4/schemas/toc.schema.json": "/toc\\.yml/i"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "C_Cpp.updateChannel": "Insiders"
 }
