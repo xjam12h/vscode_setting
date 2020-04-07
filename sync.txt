@@ -1,0 +1,4 @@
+ gist vscode setting sync
+ トークン
+ 7afaa751aa48579f33f11a87789e4c7d85c9b48b
+ id
